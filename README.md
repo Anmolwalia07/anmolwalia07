@@ -30,28 +30,11 @@ RBAC, SEO Optimization, Agile Development
 
 ---
 
-## 🚀 Favorite/Most Notable Projects
-
-- **Blogify** – A full-stack blogging platform with authentication, likes, saves, comments, and Dockerized deployment.  
-  [🔗 Live Demo](#) <!-- Add actual link if available -->
-
-- **Uniprint** – A platform for automated PDF printing with online payments and cloud storage.
-
-- **Payzo** – A full-stack wallet app supporting real-time transactions for users and merchants.
-
----
-
 ## 🏅 Achievements / Certifications
 
 - JavaScript Certification – Infosys Springboard
 - TypeScript Certification – Infosys Springboard
 - Amazon API Gateway for Serverless Applications – AWS Skill Builder
-
----
-
-## 📄 Bio/About Me
-
-I’m Anmol Deep, a passionate Full-Stack Developer who enjoys building scalable, modern web applications. I love working with TypeScript, React, and Node.js, and I'm always excited to solve complex problems, contribute to team projects, and keep learning new technologies.
 
 ---
 
